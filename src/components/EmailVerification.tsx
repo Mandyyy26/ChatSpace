@@ -53,7 +53,7 @@ export const EmailVerification: React.FC = () => {
             Thanks—your email is now verified.
           </p>
           <p className="text-sm text-gray-500">
-            Redirecting you into the app…
+            SignIn to continue…
           </p>
         </div>
       </div>
